@@ -1,0 +1,27 @@
+h1, .paragraph, .list {
+    display: flex;
+    text-align: left;
+    background-color: burlywood;
+    width: 25%;
+    left: 200px;
+    padding: 10px;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button:hover {
+  cursor: pointer;
+  
+}
+.button {
+    border-radius: 25px;
+}
+.image {
+    background-color: burlywood;
+    display: flex;
+    text-align: center;
+    width: 25%;
+    padding: 10px;
+    margin: 0;
+    
+    
+}
